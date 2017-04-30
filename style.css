@@ -1,0 +1,26 @@
+body {
+    background-image: url("https://s-media-cache-ak0.pinimg.com/originals/80/18/cb/8018cb671e28e3254703ef31cef5878c.png");
+}
+
+#question {
+    background-color: white;
+    opacity: 0.5;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    border: 2px solid;
+    border-radius: 25px;
+}
+
+
+#userInput {
+    text-align: center;
+    opacity: 0.9;
+    width: 75%;
+    height: 25px;
+    margin-left: 12.5%;
+}
+
+#mainbox{
+    top:40px;
+}
